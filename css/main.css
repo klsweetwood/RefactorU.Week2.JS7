@@ -1,0 +1,29 @@
+main {
+  height: 10000px;
+  width: 80%;
+  margin: auto;
+  border: 1px dashed #000;
+}
+
+#stats {
+  position: fixed;
+  top: 20px;
+  left: 20px;
+}
+
+#sign-up {
+  float: right;
+}
+
+#stat-box {
+  display: none;
+  position: fixed;
+  top: 20px;
+}
+
+td {
+  outline: 1px solid black;
+  width: 200px;
+  text-align: center;
+  height: 50px;
+}
